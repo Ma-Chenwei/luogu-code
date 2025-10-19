@@ -36,4 +36,4 @@ There is some answer for luogu’s codes
 
 ## 说明/提示
 
-对于全部测试数据，$0\le a,c \le 24$，$0\le b,d \le 60$，且结束时间一定晚于开始时间。
+来自luoguP1425
